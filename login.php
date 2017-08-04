@@ -26,7 +26,8 @@
     <div>
         <nav class="navbar navbar-default navbar-fixed-top navigation-clean-search navbar.transparent.navbar-inverse .navbar-inner" style="border-width:0px;-webkit-box-shadow:0px 0px;box-shadow:0px 0px;background-color:rgba(0,0,0,0.15);background-image:-webkit-gradient(linear, 50.00% 0.00%, 50.00% 100.00%, color-stop( 0% , rgba(0,0,0,0.00)),color-stop( 100% , rgba(0,0,0,0.00)));background-image:-webkit-linear-gradient(270deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);background-image:linear-gradient(180deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);">
             <div class="container">
-                <div class="navbar-header"><a class="navbar-brand navbar-link" href="#" style="color:#ffffff;">Cluster Impulsar</a>
+                <div class="navbar-header"><a class="navbar-brand navbar-link" href="#" style="color:#ffffff;"><img src="assets/img/logoImpulsarFondo.png" alt=""/>
+</a>
                     <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navcol-1"><span class="icon-bar"></span><span class="icon-bar"></span></button>
                 </div>
                 <div class="collapse navbar-collapse" id="navcol-1">

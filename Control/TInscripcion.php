@@ -73,6 +73,6 @@ if(isset($_POST["OK"]) && $_POST["OK"]=="Ingresar")
             header("Location:../index.php");
         }
     }
-   
+   header("Location:../resumen.php");
 }
 ?>
